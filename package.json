@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-generator",
+  "name": "",
   "version": "1.0.0",
   "description": "GUI For generating ESLint Config",
   "main": "index.js",
